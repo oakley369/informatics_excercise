@@ -1,4 +1,4 @@
-# infor_vaja
+# informatics_exercise
 
 ## Usage
 
